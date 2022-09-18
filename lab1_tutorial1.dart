@@ -9,7 +9,7 @@ void main() {
   print('Aditya');
 }
 
-//Output: on console 'DAKSHAY*/
+//Output: on console 'ADITYA*/
 
 void main() {
   int i;

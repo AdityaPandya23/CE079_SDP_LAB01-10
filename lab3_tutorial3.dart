@@ -6,7 +6,7 @@ void main(List<String> arguments) {
   var name = "ADITYA";
   print(name.codeUnits); //OP :[68, 65, 75, 83, 72, 65, 89]
   print(name.codeUnits.length);
-
+ 
 // const emoji='🎯';
 // print(emoji.codeUnits);     //[55356, 57263]
 // print(emoji.runes);         //(127919)

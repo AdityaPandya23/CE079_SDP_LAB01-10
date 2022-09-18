@@ -95,8 +95,8 @@ void main() {
  
         //concatenation
         var message = 'Hello' + ' my name is ';
-        const name = ‘DAKSHAY ';
-        message += name; // 'Hello my name is DAKSHAY'
+        const name = ‘ADITYA ';
+        message += name; // 'Hello my name is ADITYA'
  
         final message = StringBuffer();
         message.write('Hello');
@@ -154,8 +154,8 @@ void main() {
         //Mini-Exercises
  
           //1.
-          const firstname = "DAKSHAY ";
-          const lastname = " SOLANKI ";
+          const firstname = "ADITYA ";
+          const lastname = " PANDYA ";
  
           //2.
           const fullname = firstname + lastname;

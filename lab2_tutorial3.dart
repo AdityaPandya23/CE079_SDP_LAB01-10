@@ -163,7 +163,7 @@ void main() {
           //3.
           const mydetail = " Hello , My name is $fullname";
   */
-  /*
+  /* 
  
         //Object and dynamic types
  
